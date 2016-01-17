@@ -1,0 +1,2 @@
+# MEAN Stack Template
+This repository holds a basic template of a Ruby on Rails application, with detailed notes explaining how the code works. This template has a single CRUDable model and view pages for each of the methods.
